@@ -1,0 +1,22 @@
+# Environnements virtuels Python
+env/
+venv/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Variables sensibles
+.env
+.env.*
+!.env.example
